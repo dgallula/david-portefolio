@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "name": "tasks-board",
+        "credit": "",
+        "pre_img": "tasks-board.jpg",
+        "pre_video": "allin-video.mp4",
+        "web_link": "https://projet1-john-bryce-task-to-do.vercel.app/",
+        "github": "https://github.com/dgallula/projet1-john-bryce-task-to-do",
+        "tools": [
+            {
+                "tool": "Html",
+                "icon": "html-icon.png"
+            },
+            {
+                "tool": "CSS",
+                "icon": "css.png"
+            },
+            {
+                "tool": "JS",
+                "icon": "js.png"
+            },
+            {
+                "tool": "JQuery",
+                "icon": "jquery.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "CRYPTO",
+        "credit": "project in javascript for john Bryce about Bitcoins utilising RESTFULL API AJAX and JQUERY",
+        "pre_img": "crypto.png",
+        "pre_video": "yoga-video.mp4",
+        "web_link": "https://project2-master.vercel.app/",
+        "github": "https://github.com/dgallula/Project2-master",
+        "tools": [
+            {
+                "tool": "Html",
+                "icon": "html-icon.png"
+            },
+            {
+                "tool": "CSS",
+                "icon": "css.png"
+            },
+            {
+                "tool": "JS",
+                "icon": "js.png"
+            },
+            {
+                "tool": "JQuery",
+                "icon": "jquery.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Vacations",
+        "credit": "projet fullstack for John bryce Mysql-Express-Nodejs-React",
+        "pre_img": "vacations.png",
+        "pre_video": "vacations.mp4",
+        "web_link": "",
+        "github": "https://github.com/dgallula/projet3_john-bryce-master",
+        "tools": [
+            {
+                "tool": "React",
+                "icon": "react-icon.png"
+            },
+            {
+                "tool": "Html",
+                "icon": "html-icon.png"
+            },
+            {
+                "tool": "CSS",
+                "icon": "css.png"
+            },
+            {
+                "tool": "JS",
+                "icon": "js.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "pokedex",
+        "credit": "",
+        "pre_img": "pokedex.png",
+        "pre_video": "vacations.mp4",
+        "web_link": "https://pokemon-app-ruddy.vercel.app/",
+        "github": "https://github.com/dgallula/pokemon-app",
+        "tools": [
+            {
+                "tool": "Html",
+                "icon": "html-icon.png"
+            },
+            {
+                "tool": "CSS",
+                "icon": "css.png"
+            },
+            {
+                "tool": "JS",
+                "icon": "js.png"
+            },
+            {
+                "tool": "React",
+                "icon": "react-icon.png"
+            },
+            {
+                "tool": "Node",
+                "icon": "node.png"
+            },
+            {
+                "tool": "MySQL",
+                "icon": "mysql.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Shopping-Online",
+        "credit": "",
+        "pre_img": "shopping.png",
+        "pre_video": "chat-video.mp4",
+        "web_link": "",
+        "github": "https://github.com/dgallula/projet4-jb-shoppingonline-angular-mongodb",
+        "tools": [
+            {
+                "tool": "Html",
+                "icon": "html-icon.png"
+            },
+            {
+                "tool": "CSS",
+                "icon": "css.png"
+            },
+            {
+                "tool": "JS",
+                "icon": "js.png"
+            },
+            {
+                "tool": "React",
+                "icon": "react-icon.png"
+            },
+            {
+                "tool": "Node",
+                "icon": "node.png"
+            },
+            {
+                "tool": "Socket.io",
+                "icon": "socket-io.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Supermarket",
+        "credit": "projet fullstack in Angular8 express-Nodejs-Mysql",
+        "pre_img": "supermarket.jpg",
+        "pre_video": "super.mp4",
+        "web_link": "",
+        "github": "https://github.com/dgallula/Supermarket-master",
+        "tools": [
+            {
+                "tool": "Html",
+                "icon": "html-icon.png"
+            },
+            {
+                "tool": "CSS",
+                "icon": "css.png"
+            },
+            {
+                "tool": "JS",
+                "icon": "js.png"
+            },
+            {
+                "tool": "Angular",
+                "icon": "angular-icon.png"
+            },
+            {
+                "tool": "Node",
+                "icon": "node.png"
+            },
+            {
+                "tool": "MySQL",
+                "icon": "mysql.png"
+            }
+        ]
+    }
+]
+
