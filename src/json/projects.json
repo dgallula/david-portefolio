@@ -4,7 +4,7 @@
         "name": "tasks-board",
         "credit": "",
         "pre_img": "tasks-board.jpg",
-        "pre_video": "allin-video.mp4",
+        "pre_video": "david-gallula.mp4",
         "web_link": "https://projet1-john-bryce-task-to-do.vercel.app/",
         "github": "https://github.com/dgallula/projet1-john-bryce-task-to-do",
         "tools": [
@@ -31,9 +31,9 @@
         "name": "CRYPTO",
         "credit": "project in javascript for john Bryce about Bitcoins utilising RESTFULL API AJAX and JQUERY",
         "pre_img": "crypto.png",
-        "pre_video": "yoga-video.mp4",
-        "web_link": "https://project2-master.vercel.app/",
-        "github": "https://github.com/dgallula/Project2-master",
+        "pre_video": "david-gallula.mp4",
+        "web_link": "https://project2-api-bitcoins-project-new-version.vercel.app/",
+        "github": "project2-api-bitcoins-project-new-version.vercel.app",
         "tools": [
             {
                 "tool": "Html",
@@ -58,7 +58,7 @@
         "name": "Vacations",
         "credit": "projet fullstack for John bryce Mysql-Express-Nodejs-React",
         "pre_img": "vacations.png",
-        "pre_video": "vacations.mp4",
+        "pre_video": "david-gallula.mp4",
         "web_link": "",
         "github": "https://github.com/dgallula/projet3_john-bryce-master",
         "tools": [
@@ -85,7 +85,7 @@
         "name": "pokedex",
         "credit": "",
         "pre_img": "pokedex.png",
-        "pre_video": "vacations.mp4",
+        "pre_video": "david-gallula.mp4",
         "web_link": "https://pokemon-app-ruddy.vercel.app/",
         "github": "https://github.com/dgallula/pokemon-app",
         "tools": [
@@ -120,7 +120,7 @@
         "name": "Shopping-Online",
         "credit": "",
         "pre_img": "shopping.png",
-        "pre_video": "chat-video.mp4",
+        "pre_video": "david-gallula.mp4",
         "web_link": "",
         "github": "https://github.com/dgallula/projet4-jb-shoppingonline-angular-mongodb",
         "tools": [
@@ -152,11 +152,11 @@
     },
     {
         "id": 6,
-        "name": "Supermarket",
-        "credit": "projet fullstack in Angular8 express-Nodejs-Mysql",
-        "pre_img": "supermarket.jpg",
-        "pre_video": "super.mp4",
-        "web_link": "",
+        "name": "ravgallula.com",
+        "credit": "projet blog php-Mysql",
+        "pre_img": "blog.png",
+        "pre_video": "david-gallula.mp4",
+        "web_link": "www.ravgallula.com",
         "github": "https://github.com/dgallula/Supermarket-master",
         "tools": [
             {
