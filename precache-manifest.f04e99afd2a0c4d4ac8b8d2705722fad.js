@@ -92,16 +92,16 @@ self.__precacheManifest = [
     "url": "/myapp/static/media/socket-io.f2e31b36.jpeg"
   },
   {
-    "revision": "0734aff79a8af321fb865c9ac2ef3e64",
-    "url": "/myapp/static/media/UbuntuMono-B.0734aff7.ttf"
+    "revision": "be260e310a2801b6374172b12d69d5d3",
+    "url": "/myapp/static/media/code-head-bg.be260e31.jpg"
   },
   {
     "revision": "ace87566a523960287b20a3f9c064cb9",
     "url": "/myapp/static/media/FFFFORWA.ace87566.TTF"
   },
   {
-    "revision": "be260e310a2801b6374172b12d69d5d3",
-    "url": "/myapp/static/media/code-head-bg.be260e31.jpg"
+    "revision": "0734aff79a8af321fb865c9ac2ef3e64",
+    "url": "/myapp/static/media/UbuntuMono-B.0734aff7.ttf"
   },
   {
     "revision": "f50a30a64c99f784a1151828071d70df",
